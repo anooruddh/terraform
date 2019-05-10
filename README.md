@@ -30,3 +30,5 @@ terraform plan
 
 terraform apply
 
+terraform destory -- in case you want to delete your ec2 instance
+

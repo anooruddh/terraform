@@ -21,7 +21,12 @@ source ~/.bash_profile
 terraform -version
 
 mkdir ec2_create
+
 cd ec2_create
+
 copy your .tf file here and run
+
 terraform plan
+
 terraform apply
+
